@@ -9,4 +9,5 @@ def main():
         os.system('clear')
         print('Stop the monitoring.')
 
+
 main()
