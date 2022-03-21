@@ -21,3 +21,15 @@ Para rodar basta fazer:
 ```console
 python -m cores_ft
 ```
+
+Para criar o pacote
+
+```console
+python setup.py sdist
+```
+
+Upando para PyPi
+
+```console
+twine upload dist/*
+```
